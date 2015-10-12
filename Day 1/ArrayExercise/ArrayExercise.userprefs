@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ArrayExercise/ArrayExercise.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayExercise/Program.cs">
+    <Files>
+      <File FileName="ArrayExercise/Program.cs" Line="38" Column="47" />
+      <File FileName="ArrayExercise/Person.cs" Line="1" Column="1" />
+      <File FileName="ArrayExercise/ArrayFourD.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
