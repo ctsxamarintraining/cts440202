@@ -1,0 +1,10 @@
+/Users/abhishek/GitHub/Xamarin-Training/ExceptionHandling/ExceptionHandling/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhishek/GitHub/Xamarin-Training/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe.mdb
+/Users/abhishek/GitHub/Xamarin-Training/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/abhishek/GitHub/Xamarin-Training/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe
+/Users/abhishek/GitHub/Xamarin-Training/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe.mdb
+/Users/abhishek/GitHub/cts440202/Day 4/ExceptionHandling/ExceptionHandling/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhishek/GitHub/cts440202/Day 4/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe.mdb
+/Users/abhishek/GitHub/cts440202/Day 4/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/abhishek/GitHub/cts440202/Day 4/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe
+/Users/abhishek/GitHub/cts440202/Day 4/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe.mdb
