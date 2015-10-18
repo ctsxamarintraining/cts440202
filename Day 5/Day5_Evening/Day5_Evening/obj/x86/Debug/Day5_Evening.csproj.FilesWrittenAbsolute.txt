@@ -1,0 +1,5 @@
+/Users/abhishek/GitHub/Xamarin-Training/Day5_Evening/Day5_Evening/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhishek/GitHub/Xamarin-Training/Day5_Evening/Day5_Evening/bin/Debug/Day5_Evening.exe.mdb
+/Users/abhishek/GitHub/Xamarin-Training/Day5_Evening/Day5_Evening/bin/Debug/Day5_Evening.exe
+/Users/abhishek/GitHub/Xamarin-Training/Day5_Evening/Day5_Evening/obj/x86/Debug/Day5_Evening.exe
+/Users/abhishek/GitHub/Xamarin-Training/Day5_Evening/Day5_Evening/obj/x86/Debug/Day5_Evening.exe.mdb

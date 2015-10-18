@@ -1,0 +1,5 @@
+/Users/abhishek/GitHub/Xamarin-Training/Day6/Day6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhishek/GitHub/Xamarin-Training/Day6/Day6/bin/Debug/Day6.exe.mdb
+/Users/abhishek/GitHub/Xamarin-Training/Day6/Day6/bin/Debug/Day6.exe
+/Users/abhishek/GitHub/Xamarin-Training/Day6/Day6/obj/x86/Debug/Day6.exe
+/Users/abhishek/GitHub/Xamarin-Training/Day6/Day6/obj/x86/Debug/Day6.exe.mdb

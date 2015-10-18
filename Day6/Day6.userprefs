@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Day6/Day6.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day6/Program.cs">
+    <Files>
+      <File FileName="Day6/Program.cs" Line="50" Column="77" />
+      <File FileName="Day6/Person.cs" Line="1" Column="1" />
+      <File FileName="Day6/MyEnumerator.cs" Line="2" Column="26" />
+      <File FileName="Day6/ListExample.cs" Line="21" Column="18" />
+      <File FileName="Day6/Stack.cs" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
