@@ -1,0 +1,16 @@
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UINavigationController-nAf-gE-g8E.nib
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-dk5-gr-xn8.nib
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/dk5-gr-xn8-view-2K7-Qc-fW3.nib
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/optimized/
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/bin/iPhoneSimulator/Debug/TripExpenceManager.exe.mdb
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/bin/iPhoneSimulator/Debug/TripExpenceManager.exe
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/TripExpenceManager.exe
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/obj/iPhoneSimulator/Debug/TripExpenceManager.exe.mdb
+/Users/abhishek/GitHub/cts440202/TripExpenceManager/TripExpenceManager/bin/iPhoneSimulator/Debug/Calabash.dll

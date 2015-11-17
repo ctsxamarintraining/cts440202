@@ -1,0 +1,7 @@
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/DemoMasterDetail.dll.mdb
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/DemoMasterDetail.dll
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/DemoMasterDetail.dll
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/DemoMasterDetail.dll.mdb
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/Xamarin.Forms.Core.dll
+/Users/abhishek/GitHub/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/Xamarin.Forms.Xaml.dll

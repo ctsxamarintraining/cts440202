@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="TripExpenceManager/TripExpenceManager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TripExpenceManager/TripDatabase.cs">
+    <Files>
+      <File FileName="TripExpenceManager/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TripExpenceManager/Main.cs" Line="1" Column="1" />
+      <File FileName="TripExpenceManager/ViewController.cs" Line="20" Column="14" />
+      <File FileName="TripExpenceManager/TripTableSOurce.cs" Line="1" Column="1" />
+      <File FileName="TripExpenceManager/Trip.cs" Line="1" Column="1" />
+      <File FileName="TripExpenceManager/TripDatabase.cs" Line="5" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
