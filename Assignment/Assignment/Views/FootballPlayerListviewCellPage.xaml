@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Assignment.FootballPlayerListviewCellPage">
+	<StackLayout x:Name="CellView" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Padding="10,10,10,10" >
+		<StackLayout VerticalOptions="Center">
+			<Image x:Name="ProfileImage" Source="https://upload.wikimedia.org/wikipedia/commons/d/da/Internet2.jpg" HeightRequest="50" WidthRequest ="50"></Image>
+		</StackLayout>
+	 	<StackLayout Orientation="Vertical" HorizontalOptions="Start">
+         	   <Label x:Name="FootBallPlayerName" TextColor="#000000" FontSize="15" HorizontalOptions="Start"></Label>
+         	   <Label x:Name="DateofBirthWithYears" TextColor="#696969" FontSize="10"></Label>
+     	</StackLayout>
+     	<StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+     		<Image x:Name="CountryImage"  HeightRequest="50" WidthRequest ="50" HorizontalOptions="End" ></Image>
+     	</StackLayout>
+     </StackLayout>
+</ViewCell>

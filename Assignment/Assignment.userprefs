@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="iOS/Assignment.iOS.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment/ViewModels/CreateFootballPlayerViewModel.cs">
+    <Files>
+      <File FileName="Assignment/Views/CreateFootballPlayerPage.xaml" Line="1" Column="1" />
+      <File FileName="Assignment/Views/CreateFootballPlayerPage.xaml.cs" Line="32" Column="45" />
+      <File FileName="Assignment/ViewModels/CreateFootballPlayerViewModel.cs" Line="113" Column="5" />
+      <File FileName="Assignment/Helpers/IUploadImage.cs" Line="7" Column="25" />
+      <File FileName="Assignment/Helpers/IPage.cs" Line="1" Column="1" />
+      <File FileName="iOS/Dependency/UploadImage_iOS.cs" Line="6" Column="45" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/abhishek/Projects/Assignment copy 16/Assignment/Views/CreateFootballPlayerPage.xaml.cs" line="39" column="1" />
+      <Breakpoint file="/Users/abhishek/Projects/Assignment copy 16/Assignment/ViewModels/CreateFootballPlayerViewModel.cs" line="112" column="46" />
+      <Breakpoint file="/Users/abhishek/Projects/Assignment copy 16/iOS/Dependency/UploadImage_iOS.cs" line="7" column="1" />
+      <Breakpoint file="/Users/abhishek/Projects/Assignment copy 16/iOS/Dependency/UploadImage_iOS.cs" line="6" column="45" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

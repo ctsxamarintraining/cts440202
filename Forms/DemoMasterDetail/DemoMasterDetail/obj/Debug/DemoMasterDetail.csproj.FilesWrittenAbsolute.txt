@@ -7,3 +7,12 @@
 /Users/abhishek/Desktop/DemoMasterDetail/DemoMasterDetail/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/abhishek/Desktop/DemoMasterDetail/DemoMasterDetail/bin/Debug/SQLitePCL.raw.dll
 /Users/abhishek/Desktop/DemoMasterDetail/DemoMasterDetail/bin/Debug/SQLite-net.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/DemoMasterDetail.dll.mdb
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/DemoMasterDetail.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/DemoMasterDetail.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/obj/Debug/DemoMasterDetail.dll.mdb
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/Xamarin.Forms.Core.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/SQLitePCL.raw.dll
+/Users/abhishek/GitHub/cts440202/Forms/DemoMasterDetail/DemoMasterDetail/bin/Debug/SQLite-net.dll

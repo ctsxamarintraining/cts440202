@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BaseViewPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Assignment.FootballPlayersListPage">
+	<ContentPage.ToolbarItems>
+		<ToolbarItem x:Name = "AddFootBallPlayerBTN" Text = "Add"></ToolbarItem>
+	</ContentPage.ToolbarItems>
+
+	<ContentPage.Content>
+		<StackLayout>
+			<ListView  x:Name="FootballPlayersListView"  >
+				<ListView.ItemTemplate>
+                	<DataTemplate>
+                   	 	<ViewCell>
+                       	 	<StackLayout BackgroundColor="#eee"
+                       			 Orientation="Horizontal">            
+                                	 <Label Text=" Hi hello "
+                                	TextColor="#f35e20" />
+                              </StackLayout>
+                    	</ViewCell>
+                	</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+		</StackLayout>
+
+	</ContentPage.Content>
+</BaseViewPage>

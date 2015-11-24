@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BaseViewPage BackgroundColor="Silver" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Assignment.CreateFootballPlayerPage">
+
+	<ContentPage.Content>		
+		<ScrollView>
+			<StackLayout Padding="10,10,10,10">
+
+			<Image x:Name="ImagePicker" Source="NoProfile.png" HeightRequest ="75" WidthRequest="75" BackgroundColor="Gray" VerticalOptions = "Center" HorizontalOptions = "Center">
+				<Image.GestureRecognizers>
+       			 	<TapGestureRecognizer 
+       			 		x:Name = "ImagePickerTapGesture"
+                		Command="{Binding TapCommand}"/>
+  				</Image.GestureRecognizers>
+			</Image>
+
+			<Label  Text = "FirstName" 	VerticalOptions = "Center"	HorizontalOptions = "Start"></Label>
+
+			<Entry x:Name = "FirstNamelbl" ></Entry>
+
+			<Label Text = "Not Visible" Opacity = "0"></Label>
+			<Label Text = "LastName" VerticalOptions = "Center" HorizontalOptions = "Start">
+			</Label>
+			<Entry x:Name = "LastNamelbl"></Entry>
+
+			<Label Text = "Not Visible" Opacity = "0"></Label>
+			<Label Text = "Date Of Birth" VerticalOptions = "Center" HorizontalOptions = "Start">
+			</Label>
+			<DatePicker x:Name="DateOfBirthPicker"></DatePicker>
+
+			<Label Text = "Not Visible" Opacity = "0"></Label>
+			<Label Text = "Country" VerticalOptions = "Center" HorizontalOptions = "Start">
+			</Label>
+			<Picker x:Name="CountryPicker" ></Picker>
+
+			<Label Text = "Not Visible" Opacity = "0"></Label>
+			<Label Text = "Description" VerticalOptions = "Center" HorizontalOptions = "Start" >
+			</Label>
+			<Editor x:Name = "DescriptionEditor" HeightRequest="60"></Editor>
+
+			<Label Text = "Not Visible" Opacity = "0"></Label>
+			<Button Text = "Save" x:Name = "SavePlayerProfileBTN"></Button>
+
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</BaseViewPage>
+
+

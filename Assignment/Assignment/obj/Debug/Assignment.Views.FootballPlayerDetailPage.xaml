@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BaseViewPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Assignment.FootballPlayerDetailPage">
+	<ContentPage.Content Padding="10,10,10,10">
+		<ScrollView Padding="10,10,10,10" >
+			<StackLayout>
+				<Image x:Name="ProfileImage" HeightRequest="100" WidthRequest="70" BackgroundColor="Gray" HorizontalOptions="Center"/>
+				<Label x:Name="PlayerNamelbl" Text="Player Name" FontSize="23" HorizontalOptions="CenterAndExpand"/>
+				<Label x:Name="IsFavouritelbl" HorizontalOptions="Center" />
+
+				<StackLayout Padding="0,30,0,0" Orientation="Horizontal">
+					<Label x:Name="Agelbl" HorizontalOptions="StartAndExpand"/>
+				</StackLayout>
+
+				<StackLayout Padding="0,30,0,0" Orientation="Horizontal">
+<!--					<Label Text="Date of Birth:" HorizontalOptions="Start"/>-->
+					<Label x:Name="DOBlbl" HorizontalOptions="StartAndExpand"/>
+				</StackLayout>
+
+				<StackLayout Padding="0,30,0,0" Orientation="Horizontal">
+<!--					<Label Text="Country:" HorizontalOptions="Start"/>-->
+					<Label x:Name="Countrylbl" HorizontalOptions="StartAndExpand"/>
+				</StackLayout>
+
+				<StackLayout Padding="0,30,0,0" Orientation="Horizontal">
+<!--					<Label Text="Description:" HorizontalOptions="Start"/>-->
+					<Label x:Name="Descriptionlbl" HorizontalOptions="StartAndExpand"/>
+				</StackLayout>
+				
+
+			</StackLayout>
+		</ScrollView>	
+	</ContentPage.Content>
+</BaseViewPage>

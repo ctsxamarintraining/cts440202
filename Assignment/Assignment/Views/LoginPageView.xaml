@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BaseViewPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Assignment.LoginPageView">
+
+	<ContentPage.Content>		
+		<ScrollView>
+			<StackLayout HorizontalOptions = "Center" VerticalOptions = "Center">
+			<Label  Text = "SIGN IN" 
+			VerticalOptions = "Center"
+			HorizontalOptions = "Center" 
+			FontSize = "30" >
+			</Label>
+
+			<Entry x:Name = "UserName" Placeholder = "Username" WidthRequest = "150"></Entry>
+			<Entry x:Name = "Password" Placeholder = "Password" IsPassword ="true" WidthRequest = "10"></Entry>
+			<Button x:Name = "Signin" Text = "Sign In"></Button>
+
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</BaseViewPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/abhishek/Projects/Assignment copy 16/Droid/obj/Debug/__library_projects__/SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
