@@ -165,7 +165,7 @@ namespace BSTOne
 
 			UITouch touch = touches.AnyObject as UITouch;
 			if (touch != null) {
-				if (touchStartedInside) {
+				if (touchStartedInside && selectedValue > 0) {
 					// move the shape
 					nfloat offsetX = touch.PreviousLocationInView(View).X - touch.LocationInView(View).X;
 					nfloat offsetY = touch.PreviousLocationInView(View).Y - touch.LocationInView(View).Y;

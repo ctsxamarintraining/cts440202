@@ -76,7 +76,7 @@ namespace BSTOne
 						tempNode.right = incomingNode;
 
 				}
-				while (incomingNode.data< tempNode.data ) {
+				while (incomingNode.data < tempNode.data ) {
 					if (tempNode.left != null) {
 						tempNode = tempNode.left;
 						level++;
