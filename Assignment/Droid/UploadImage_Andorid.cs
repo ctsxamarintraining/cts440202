@@ -11,16 +11,8 @@ using Uri = Android.Net.Uri;
 namespace Assignment.Droid
 {
 	
-	public class UploadImage_Andorid : IUploadImage
+	public class UploadImage_Andorid 
 	{
-		#region IUploadImage implementation
-
-		public string GetImagePath ()
-		{
-		}
-
-		#endregion
-
 		public UploadImage_Andorid ()
 		{
 		}

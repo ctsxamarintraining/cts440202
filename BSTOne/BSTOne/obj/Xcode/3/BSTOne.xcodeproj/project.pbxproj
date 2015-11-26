@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		27A334090000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B3440A70000000000000000 /* UIKit.framework */; };
+		2E926A290000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 322376C70000000000000000 /* MapKit.framework */; };
+		291F65AE0000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CB0724C0000000000000000 /* Foundation.framework */; };
+		23AC61330000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 273D6DD10000000000000000 /* CoreGraphics.framework */; };
+		24B148840000000000000000 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 284255220000000000000000 /* Images.xcassets */; };
+		280F72060000000000000000 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2BA07EA40000000000000000 /* LaunchScreen.xib */; };
+		464F3DA00000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F6007800000000000000000 /* Main.storyboard */; };
+		614089B00000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A5153900000000000000000 /* Info.plist */; };
+		2ECBC50A0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 325CD1A80000000000000000 /* Entitlements.plist */; };
+		1CC3A2D80000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 2054AF760000000000000000 /* AppDelegate.h */; };
+		3AC8396D0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E59460B0000000000000000 /* AppDelegate.m */; };
+		5487C2B00000000000000000 /* ViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 8D988C900000000000000000 /* ViewController.h */; };
+		1E0CF1610000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 219DFDFF0000000000000000 /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C4C21C100000000000000000 /* BSTOne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "BSTOne.app"; path = "BSTOne.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B3440A70000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		322376C70000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		2CB0724C0000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		273D6DD10000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		284255220000000000000000 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Images.xcassets"; path = "Images.xcassets"; sourceTree = "<group>"; };
+		2BA07EA40000000000000000 /* LaunchScreen.xib */ = {isa = PBXFileReference; name = "LaunchScreen.xib"; path = "LaunchScreen.xib"; sourceTree = "<group>"; };
+		7F6007800000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		9A5153900000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		325CD1A80000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		2054AF760000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		3E59460B0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		8D988C900000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		219DFDFF0000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		13A11E190000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				27A334090000000000000000 /* UIKit.framework in Frameworks */,
+				2E926A290000000000000000 /* MapKit.framework in Frameworks */,
+				291F65AE0000000000000000 /* Foundation.framework in Frameworks */,
+				23AC61330000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		33BA8FA70000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				1E5443F30000000000000000 /* BSTOne */,
+				3E6DB5810000000000000000 /* Frameworks */,
+				290769CD0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		290769CD0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C4C21C100000000000000000 /* BSTOne.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		3E6DB5810000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2B3440A70000000000000000 /* UIKit.framework */,
+				322376C70000000000000000 /* MapKit.framework */,
+				2CB0724C0000000000000000 /* Foundation.framework */,
+				273D6DD10000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		1E5443F30000000000000000 /* BSTOne */ = {
+			isa = PBXGroup;
+			children = (
+				2054AF760000000000000000 /* AppDelegate.h */,
+				325CD1A80000000000000000 /* Entitlements.plist */,
+				284255220000000000000000 /* Images.xcassets */,
+				9A5153900000000000000000 /* Info.plist */,
+				2BA07EA40000000000000000 /* LaunchScreen.xib */,
+				7F6007800000000000000000 /* Main.storyboard */,
+				8D988C900000000000000000 /* ViewController.h */,
+				3CAA314A0000000000000000 /* Supporting Files */,
+			);
+			name = "BSTOne";
+			sourceTree = "<group>";
+		};
+		3CAA314A0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3E59460B0000000000000000 /* AppDelegate.m */,
+				219DFDFF0000000000000000 /* ViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FAA4B4300000000000000000 /* BSTOne */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 198FBE700000000000000000 /* Build configuration list for PBXNativeTarget "BSTOne" */;
+			buildPhases = (
+				1CBDF0300000000000000000 /* Sources */,
+				13A11E190000000000000000 /* Frameworks */,
+				2AB67E8E0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BSTOne";
+			productName = "BSTOne";
+			productReference = C4C21C100000000000000000 /* BSTOne.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4F7256900000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 36E5D60D0000000000000000 /* Build configuration list for PBXProject "BSTOne" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 33BA8FA70000000000000000;
+			productRefGroup = 290769CD0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAA4B4300000000000000000 /* BSTOne */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2AB67E8E0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24B148840000000000000000 /* Images.xcassets in Resources */,
+				280F72060000000000000000 /* LaunchScreen.xib in Resources */,
+				464F3DA00000000000000000 /* Main.storyboard in Resources */,
+				614089B00000000000000000 /* Info.plist in Resources */,
+				2ECBC50A0000000000000000 /* Entitlements.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1CBDF0300000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC3A2D80000000000000000 /* AppDelegate.h in Sources */,
+				3AC8396D0000000000000000 /* AppDelegate.m in Sources */,
+				5487C2B00000000000000000 /* ViewController.h in Sources */,
+				1E0CF1610000000000000000 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEE7DBB0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		2C32B0330000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "BSTOne";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		36E5D60D0000000000000000 /* Build configuration list for PBXProject "BSTOne" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEE7DBB0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		198FBE700000000000000000 /* Build configuration list for PBXNativeTarget "BSTOne" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C32B0330000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4F7256900000000000000000 /* Project object */;
+}
