@@ -2,22 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BSTOne/ViewController.cs">
     <Files>
-      <File FileName="BSTOne/ViewController.cs" Line="106" Column="4" />
+      <File FileName="BSTOne/ViewController.cs" Line="203" Column="4" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BSTOne" expanded="True">
-            <Node name="BSTOne" expanded="True">
-              <Node name="ViewController.cs" expanded="True" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
